@@ -155,8 +155,6 @@ You can pipe a string that contains a path to an existing archive file.
 
 ## OUTPUTS
 
-### System.IO.FileInfo or System.IO.DirectoryInfo
-
 ## NOTES
 
 ## RELATED LINKS
